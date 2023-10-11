@@ -2,9 +2,9 @@
 
 😄 Meu nome é Thiago Ferreira, sou analista de suporte na Tivit, formado em técnico de informática, e finalizando minha graduação em sistemas de informação.
 
-** Ainda estou completando aqui **
+**Ainda estou completando aqui**
 
-** 🔭 Olhando além . . . **
+**🔭 Olhando além . . .**
 
 
 <!--
