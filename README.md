@@ -35,7 +35,7 @@ Tools:
 IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+![PyCharm](https://img.shields.io/badge/-PyCharm-ADFF2F?style=flat-square&logo=PyCharm&logoColor=white)
 
 <!--
 **thiagooficial10/Thiagooficial10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
