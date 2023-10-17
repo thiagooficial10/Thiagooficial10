@@ -1,6 +1,6 @@
 # Olá, bem-vindo 👋
 
-😄 Meu nome é Thiago Ferreira, sou analista de suporte na Tivit, formado em técnico de informática, e finalizando minha graduação em sistemas de informação.
+😄 Meu nome é Thiago Ferreira, sou analista de suporte de TI na PJUS, formado em técnico de informática, e finalizando minha graduação em sistemas de informação.
 
 **Ainda estou completando aqui**
 
