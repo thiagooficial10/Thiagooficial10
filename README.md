@@ -14,7 +14,7 @@ ____
 
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-7CFC00?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-228B22?style=flat-square&logo=python)
 
 
 Frontend:
