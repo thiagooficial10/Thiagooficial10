@@ -1,6 +1,6 @@
 # Olá, bem-vindo 👋
 
-😄 Meu nome é Thiago Ferreira, sou analista de suporte de TI na (https://www.pjus.com.br/)PJUS, formado em técnico de informática, e finalizando minha graduação em sistemas de informação.
+😄 Meu nome é Thiago Ferreira, sou analista de suporte de TI na (https://www.pjus.com.br/), formado em técnico de informática, e finalizando minha graduação em sistemas de informação.
 
 No meu tempo livre gosto de jogar (e assistir) futebol (⚽️), musculação e vida fitness (🏋️), assistir filmes (🎞️) e séries (📺), ouvir música (🎵 ), viajar é vida (🛩️).
 
