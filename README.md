@@ -4,9 +4,14 @@
 
 No meu tempo livre gosto de jogar (e assistir) futebol (⚽️), musculação e vida fitness (🏋️), assistir filmes (🎞️) e séries (📺), ouvir música (🎵 ), viajar é vida (🛩️).
 
-**Ainda estou completando aqui**
+**Estou estudando por conta própria:** 🔭
 
-**🔭 Olhando além . . .**
+Python
+Banco de dados
+Power BI
+GIT
+
+Gosto muito da area de dados ❤️
 
 [![Linkedin: Thiago](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.instagram.com/thiagooficial10/](https://www.instagram.com/thiagooficial10/))](https://www.instagram.com/thiagooficial10/)
 
