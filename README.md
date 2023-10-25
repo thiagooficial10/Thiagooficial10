@@ -2,6 +2,8 @@
 
 😄 Meu nome é Thiago Ferreira, sou analista de suporte de TI na [PJUS](https://www.pjus.com.br/), formado em técnico de informática, e finalizando minha graduação em sistemas de informação.
 
+Estou começando a praticar e mexer no github neste ano.. Em breve ficará bem legal 😁
+
 No meu tempo livre gosto de jogar (e assistir) futebol (⚽️), musculação e vida fitness (🏋️), assistir filmes (🎞️) e séries (📺), ouvir música (🎵 ), viajar é vida (🛩️).
 
 **Estou estudando por conta própria:** 🔭
