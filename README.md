@@ -46,6 +46,9 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-ADFF2F?style=flat-square&logo=PyCharm&logoColor=white)
 
+Business Intelligence:
+![PowerBI](https://img.shields.io/badge/-PowerBI-FFFF00?style=flat-square&logo=power-bi-code&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-99FF99?style=flat-square&logo=Tableau&logoColor=white)
 <!--
 **thiagooficial10/Thiagooficial10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
