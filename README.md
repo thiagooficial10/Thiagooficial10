@@ -14,7 +14,7 @@ GIT
 
 Gosto muito da area de dados ❤️
 
-[![Linkedin: Thiago](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.instagram.com/thiagooficial10/](https://www.instagram.com/thiagooficial10/))](https://www.instagram.com/thiagooficial10/)
+[![Linkedin: Thiago](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thiago-ferreira-774874112/](https://www.linkedin.com/in/thiago-ferreira-774874112/))](https://www.linkedin.com/in/thiago-ferreira-774874112/)
 
 ____
 
