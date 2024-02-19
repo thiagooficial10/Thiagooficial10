@@ -7,8 +7,8 @@ No meu tempo livre gosto de jogar (e assistir) futebol (⚽️), musculação e 
 **Estou estudando por conta própria:** 🔭
 
 Tableau
+SQL
 Python
-Banco de dados
 Power BI
 GIT
 
