@@ -1,5 +1,7 @@
 Olá! Seja bem-vindo(a).
 
+Portfólio Power BI: https://sites.google.com/view/portflio-thiagoferreira-bi/in%C3%ADcio
+
 👨‍💻 Meu nome é Thiago, tenho 26 anos.
 Profissionalmente, possuo vasta experiência em suporte, infraestrutura e RPA.
 Sou motivado por metas e estou sempre buscando aprimorar minhas habilidades através de cursos diários.
