@@ -1,22 +1,31 @@
 Olá! Seja bem-vindo(a).
 
-Portfólio Power BI: https://sites.google.com/view/portflio-thiagoferreira-bi/in%C3%ADcio
+Portfólio Power BI - https://sites.google.com/view/portflio-thiagoferreira-bi/in%C3%ADcio
+GitHub: https://github.com/thiagooficial10
 
-👨‍💻 Meu nome é Thiago, tenho 27 anos.
-Profissionalmente, possuo vasta experiência em suporte, infraestrutura e RPA.
-Sou motivado por metas e estou sempre buscando aprimorar minhas habilidades através de cursos diários.
+👨‍💻 Sou Thiago, tenho 27 anos, profissional de TI com experiência em suporte, infraestrutura, RPA e análise de dados. Apaixonado por tecnologia e desafios, busco constantemente aprimorar minhas habilidades para entregar soluções eficientes e inovadoras.
 
-🎓 Sou formado em técnico de informática pelo SENAI-FIEMG.
-🎓 Sou bacharel em Sistemas de informação pela UNA.
-🎓 Cursando pós-graduação em Arquitetura e Gestão de infraestrutura de TI.
-🎓 Estudando inglês.
+🎓 Formação acadêmica:
+Técnico em Informática – SENAI-FIEMG
+Bacharel em Sistemas de Informação – UNA
+Pós-graduação em Arquitetura e Gestão de Infraestrutura de TI (em andamento)
+Estudo contínuo em Inglês
 
-Conhecimentos adicionais:
-Google Cloud Big Query, Tableau, Power BI, DAX, Python, Java, Git e GitHub,  Cibersegurança, Html, Css, Scrum.
+📌 Linguagens de programação e consulta:
+SQL, Python, Java, DAX, HTML, CSS, Power Query (M Language)
 
-Na PJUS, atuo no setor de RPA (Automação Robótica de Processos), onde utilizo Python, Excel, SQL e Tableau para dar suporte nos robôs, tratar planilhas, analisar dados e criar dashboards. Antes disso, fui responsável por desenvolver e implementar catálogo de serviços alinhado com ITSM, gerenciar e configurar sistemas como o gestãoX, Intune, Office 365, SharePoint e Sophos Antivírus, e gerenciar chamados e SLAs. Além disso, tenho experiência em suporte de 1° e 2° nível, configuração de dispositivos, gerenciamento do Active Directory e manutenção de máquinas e servidores.
+📌 Bancos de dados (SGBDs):
+MySQL, PostgreSQL, SQL Server, Google BigQuery
 
-🔖 Possuo certificações em Experiência do Cliente pela WCES e em Scrum Fundamentals, o que demonstra meu compromisso com a excelência e com o aprendizado contínuo.
+📌 Ferramentas e plataformas:
+Power BI, Tableau, Google Colab, Jupyter Notebook, Git, GitHub
+
+📌 Metodologias e conceitos:
+ETL / ELT, Data Storytelling, Cibersegurança, Scrum
+
+Na PJUS, atuo no setor de RPA (Automação Robótica de Processos), onde utilizo Python, Excel, SQL, Power BI e Tableau para dar suporte nos robôs, tratar planilhas, analisar dados e criar dashboards. Antes disso, fui responsável por desenvolver e implementar catálogo de serviços alinhado com ITSM, gerenciar e configurar sistemas como o gestãoX, Intune, Office 365, SharePoint e Sophos Antivírus, e gerenciar chamados e SLAs. Além disso, tenho experiência em suporte de 1° e 2° nível, configuração de dispositivos, gerenciamento do Active Directory e manutenção de máquinas e servidores.
+
+🔖 Possuo certificações em Experiência do Cliente pela WCES e em Scrum Fundamentals.
 
 🌐 Também tive a oportunidade de desenvolver um site para uma clínica de fisioterapia, onde pude aplicar meus conhecimentos em design e tecnologia. Você pode conferir o projeto aqui: https://productpulsetech.my.canva.site/clinicasaludfisioterapia
 
