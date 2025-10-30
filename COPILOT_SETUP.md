@@ -35,7 +35,7 @@ Com o GitHub Pro, você tem acesso a modelos avançados como o Claude Opus atrav
 
 1. Abra o Copilot Chat:
    - Clique no ícone do chat na barra lateral esquerda
-   - Ou use o atalho: Ctrl+Shift+I (Cmd+Shift+I no Mac)
+   - Ou use o atalho: Ctrl+I (Cmd+I no Mac) para chat inline
    - Ou abra a paleta de comandos (Ctrl+Shift+P) e digite "Copilot Chat"
 
 2. No chat, você pode:
@@ -83,10 +83,10 @@ Com o GitHub Pro, você tem acesso a modelos avançados como o Claude Opus atrav
 2. **Use o chat**: Para questões complexas, use o Copilot Chat em vez de apenas sugestões inline
 3. **Contexto**: O Copilot aprende com o contexto dos arquivos abertos na sua workspace
 4. **Atalhos úteis**:
-   - Alt+\ : Acionar sugestão manualmente
+   - Alt+\\ : Acionar sugestão manualmente
    - Alt+] : Próxima sugestão
    - Alt+[ : Sugestão anterior
-   - Ctrl+Shift+I : Abrir Copilot Chat
+   - Ctrl+I : Abrir Copilot Chat inline
 
 ## ✨ Verificação Final
 

@@ -29,8 +29,8 @@ Quando você abrir este repositório no VSCode pela primeira vez:
 
 3. **Começar a Usar**:
    - As sugestões do Copilot aparecerão automaticamente enquanto você digita
-   - Use `Ctrl+Shift+I` para abrir o Copilot Chat
-   - Use `Alt+\` para acionar sugestões manualmente
+   - Use `Ctrl+I` para abrir o Copilot Chat inline
+   - Use `Alt+\\` para acionar sugestões manualmente
 
 ## Precisa de Ajuda?
 
