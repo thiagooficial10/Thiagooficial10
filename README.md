@@ -3,6 +3,8 @@ Olá! Seja bem-vindo(a).
 Portfólio Power BI - https://sites.google.com/view/portflio-thiagoferreira-bi/in%C3%ADcio
 GitHub: https://github.com/thiagooficial10
 
+🤖 **Configuração do GitHub Copilot (Claude Opus)**: Veja o [guia completo de configuração](COPILOT_SETUP.md) para usar o GitHub Copilot com Claude Opus no VSCode.
+
 👨‍💻 Sou Thiago, tenho 27 anos, profissional de TI com experiência em suporte, infraestrutura, RPA e análise de dados. Apaixonado por tecnologia e desafios, busco constantemente aprimorar minhas habilidades para entregar soluções eficientes e inovadoras.
 
 🎓 Formação acadêmica:
