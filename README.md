@@ -1,36 +1,36 @@
-Olá! Seja bem-vindo(a).
+Com 28 anos, atuo na área de Tecnologia e Dados, construindo soluções que unem Business Intelligence, automação de processos, analytics e desenvolvimento de produtos digitais.
 
-Portfólio Power BI - https://sites.google.com/view/portflio-thiagoferreira-bi/in%C3%ADcio
-GitHub: https://github.com/thiagooficial10
+Minha trajetória começou na área de infraestrutura de TI, atuando desde 2019 em ambientes corporativos, suporte técnico e administração de recursos tecnológicos, desenvolvendo uma base sólida em sistemas, redes, governança e operação.
 
-👨‍💻 Sou Thiago, tenho 27 anos, profissional de TI com experiência em suporte, infraestrutura, RPA e análise de dados. Apaixonado por tecnologia e desafios, busco constantemente aprimorar minhas habilidades para entregar soluções eficientes e inovadoras.
+Posteriormente, evoluí para a área de automação de processos (RPA), trabalhando no desenvolvimento e sustentação de soluções utilizando Python, SQL e automações voltadas à otimização operacional. Nesse período, atuei com validação, organização e tratamento de dados, OCR, autenticação via certificado digital e 2FA, além de fluxos complexos envolvendo múltiplas sessões, monitoramento e fallback inteligente.
 
-🎓 Formação acadêmica:
-Técnico em Informática – SENAI-FIEMG
-Bacharel em Sistemas de Informação – UNA
-Pós-graduação em Arquitetura e Gestão de Infraestrutura de TI (em andamento)
-Estudo contínuo em Inglês
+Atualmente, atuo diretamente com BI e engenharia de dados aplicada ao negócio, participando da estruturação de ambientes analíticos, desenvolvimento de dashboards gerenciais, integração de múltiplas fontes de dados, automações em Python e construção de soluções voltadas à tomada de decisão estratégica.
 
-📌 Linguagens de programação e consulta:
-SQL, Python, Java, DAX, HTML, CSS, Power Query (M Language)
+Tenho experiência com modelagem de dados, ETL/ELT, SQL, Power BI, automação de fluxos, governança de dados e transformação de informações complexas em análises claras, confiáveis e acionáveis.
 
-📌 Bancos de dados (SGBDs):
-MySQL, PostgreSQL, SQL Server, Google BigQuery
+Além da atuação corporativa, também desenvolvo projetos próprios voltados à inovação, automação inteligente e produtos digitais, ampliando constantemente minha visão sobre arquitetura de sistemas, escalabilidade, experiência do usuário e integração entre tecnologia e negócio.
 
-📌 Ferramentas e plataformas:
-Power BI, Tableau, Google Colab, Jupyter Notebook, Git, GitHub
+Possuo perfil analítico, forte capacidade de aprendizado prático e facilidade em conectar visão técnica com necessidades estratégicas, buscando sempre construir soluções eficientes, organizadas e escaláveis.
 
-📌 Metodologias e conceitos:
-ETL / ELT, Data Storytelling, Cibersegurança, Scrum
+🎓 Formação
 
-Na PJUS, atuo no setor de RPA (Automação Robótica de Processos), onde utilizo Python, Excel, SQL, Power BI e Tableau para dar suporte nos robôs, tratar planilhas, analisar dados e criar dashboards. Antes disso, fui responsável por desenvolver e implementar catálogo de serviços alinhado com ITSM, gerenciar e configurar sistemas como o gestãoX, Intune, Office 365, SharePoint e Sophos Antivírus, e gerenciar chamados e SLAs. Além disso, tenho experiência em suporte de 1° e 2° nível, configuração de dispositivos, gerenciamento do Active Directory e manutenção de máquinas e servidores.
+• Técnico em Informática — SENAI/FIEMG
+• Bacharel em Sistemas de Informação — UNA
+• Pós-graduação em Arquitetura e Gestão de Infraestrutura de TI
+• MBA em Business Intelligence — Cursando
 
-🔖 Possuo certificações em Experiência do Cliente pela WCES e em Scrum Fundamentals.
+🧠 Competências Técnicas
 
-🌐 Também tive a oportunidade de desenvolver um site para uma clínica de fisioterapia, onde pude aplicar meus conhecimentos em design e tecnologia. Você pode conferir o projeto aqui: https://productpulsetech.my.canva.site/clinicasaludfisioterapia
+💻 Linguagens & Dados
+SQL • Python • TypeScript • DAX • Power Query (M) • Java • HTML/CSS
 
-Meus trabalhos voluntários são voltados para a área de design da igreja que congrego, e também na clinica de um amigo de infância.
+🗄️ Bancos de Dados
+SQL Server • PostgreSQL • MySQL • BigQuery
 
-📱 Para entrar em contato comigo, meu número é (31) 99832-6252 e meu e-mail é thiago.info.senai@gmail.com.
+🛠️ Ferramentas & Plataformas
+Power BI • Tableau • FastAPI • Next.js • Git/GitHub • Supabase • Railway • Vercel • Jupyter Notebook
 
-Vamos expandir horizontes juntos! ✨
+📊 Métodos & Conceitos
+ETL/ELT • Modelagem Dimensional • Data Storytelling • APIs REST • Governança de Dados • Scrum • Analytics • Automação Inteligente
+
+📱 (31) 99832-6252
