@@ -1,36 +1,35 @@
-Com 28 anos, atuo na área de Tecnologia e Dados, construindo soluções que unem Business Intelligence, automação de processos, analytics e desenvolvimento de produtos digitais.
+Atuo na área de Tecnologia e Dados, construindo soluções que conectam Business Intelligence, automação de processos, analytics e desenvolvimento de produtos digitais.
 
-Minha trajetória começou na área de infraestrutura de TI, atuando desde 2019 em ambientes corporativos, suporte técnico e administração de recursos tecnológicos, desenvolvendo uma base sólida em sistemas, redes, governança e operação.
+Minha trajetória começou em infraestrutura e suporte de TI, atuando em ambientes corporativos, administração de recursos tecnológicos, gestão de acessos e operação. Essa base evoluiu para RPA, onde passei a desenvolver e sustentar automações em Python e SQL voltadas à eficiência operacional, extração e tratamento de dados.
 
-Posteriormente, evoluí para a área de automação de processos (RPA), trabalhando no desenvolvimento e sustentação de soluções utilizando Python, SQL e automações voltadas à otimização operacional. Nesse período, atuei com validação, organização e tratamento de dados, OCR, autenticação via certificado digital e 2FA, além de fluxos complexos envolvendo múltiplas sessões, monitoramento e fallback inteligente.
+Nesse período, trabalhei com automações web, OCR, certificado digital, autenticação 2FA, normalização de informações, tratamento de exceções e fluxos com múltiplas sessões.
 
-Atualmente, atuo diretamente com BI e engenharia de dados aplicada ao negócio, participando da estruturação de ambientes analíticos, desenvolvimento de dashboards gerenciais, integração de múltiplas fontes de dados, automações em Python e construção de soluções voltadas à tomada de decisão estratégica.
+Posteriormente, ampliei minha atuação para Business Intelligence e Analytics, participando da estruturação de ambientes analíticos, desenvolvimento de dashboards gerenciais, modelagem e integração de dados, construção de indicadores e automações voltadas ao apoio à tomada de decisão.
 
-Tenho experiência com modelagem de dados, ETL/ELT, SQL, Power BI, automação de fluxos, governança de dados e transformação de informações complexas em análises claras, confiáveis e acionáveis.
+Atualmente, concentro minha atuação em projetos próprios nas áreas de dados, automação e produtos digitais. Entre eles está a Tripzy, plataforma de turismo e experiências, na qual atuo na evolução da solução, incluindo APIs, integrações com serviços externos, banco de dados, automações e arquitetura da aplicação. Também participo de iniciativas envolvendo coleta, tratamento e estruturação de dados para apoio a operações comerciais e analíticas.
 
-Além da atuação corporativa, também desenvolvo projetos próprios voltados à inovação, automação inteligente e produtos digitais, ampliando constantemente minha visão sobre arquitetura de sistemas, escalabilidade, experiência do usuário e integração entre tecnologia e negócio.
-
-Possuo perfil analítico, forte capacidade de aprendizado prático e facilidade em conectar visão técnica com necessidades estratégicas, buscando sempre construir soluções eficientes, organizadas e escaláveis.
+Minha trajetória me proporcionou uma visão integrada do ciclo da informação: da captura e tratamento dos dados à modelagem, automação, análise e construção de soluções utilizadas pelo negócio.
 
 🎓 Formação
-
 • Técnico em Informática — SENAI/FIEMG
 • Bacharel em Sistemas de Informação — UNA
-• Pós-graduação em Arquitetura e Gestão de Infraestrutura de TI
-• MBA em Business Intelligence — Cursando
+• Pós-graduação em Arquitetura e Gestão de Infraestrutura de TI — Concluída
+• MBA em Business Intelligence — Concluído
 
 🧠 Competências Técnicas
 
 💻 Linguagens & Dados
+
 SQL • Python • TypeScript • DAX • Power Query (M) • Java • HTML/CSS
 
 🗄️ Bancos de Dados
+
 SQL Server • PostgreSQL • MySQL • BigQuery
 
 🛠️ Ferramentas & Plataformas
+
 Power BI • Tableau • FastAPI • Next.js • Git/GitHub • Supabase • Railway • Vercel • Jupyter Notebook
 
 📊 Métodos & Conceitos
-ETL/ELT • Modelagem Dimensional • Data Storytelling • APIs REST • Governança de Dados • Scrum • Analytics • Automação Inteligente
 
-📱 (31) 99832-6252
+ETL/ELT • Modelagem Dimensional • Data Storytelling • APIs REST • Governança de Dados • Analytics • Scrum • Automação de Processos
